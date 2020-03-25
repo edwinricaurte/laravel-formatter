@@ -28,7 +28,7 @@ See Parsers and Formats to see supported input / output formats.
 Through command line:
 
 ```bash
-composer require soapbox/laravel-formatter
+composer require edwinricaurte/laravel-formatter
 ```
 
 Through composer.json:
